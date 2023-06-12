@@ -1,5 +1,7 @@
 module github.com/alirezarabie/gorm-sqlite-crypto
 
+replace github.com/Daskott/gorm-sqlite-cipher => ../gorm-sqlite-crypto
+
 go 1.15
 
 require (
