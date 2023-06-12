@@ -19,13 +19,13 @@ SQLite itself is part of SQLCipher.
 
 This package can be installed with the go get command:
 
-    go get github.com/jackfr0st13/gorm-sqlite-cipher
+    go get github.com/alirezarabie/gorm-sqlite-crypto
 
 ## USAGE
 
 ```go
 import (
-  sqliteEncrypt "github.com/jackfr0st13/gorm-sqlite-cipher"
+  sqliteEncrypt "github.com/alirezarabie/gorm-sqlite-crypto"
   "gorm.io/gorm"
 )
 key := "passphrase"
