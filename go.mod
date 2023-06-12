@@ -1,4 +1,4 @@
-module github.com/alirezarabie/gorm-sqlite-cryptos
+module github.com/alirezarabie/gorm-sqlite-crypto
 
 go 1.15
 
